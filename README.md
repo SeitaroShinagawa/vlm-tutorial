@@ -2,8 +2,6 @@
 
 本リポジトリでは、Vision-Language Model (VLM)のチュートリアルとして、コードを読みながら実装について解説します。
 
-<a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 ## エンコーダ型VLM
 
 ### CLIPの推論
